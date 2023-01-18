@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ I am a Bitcoin and Game Developer. Checkout our Bitcoin SV paper wallet generator
+
 <!--
 
 **Here are some ideas to get you started:**
